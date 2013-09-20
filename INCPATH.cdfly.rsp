@@ -1,0 +1,8 @@
+-I..\..\..\ecs\SYSTEM\Qt4\include\QtCore
+-I..\..\..\ecs\SYSTEM\Qt4\include\QtGui
+-I..\..\..\ecs\SYSTEM\Qt4\include\QtSql
+-I..\..\..\ecs\SYSTEM\Qt4\include
+-I.
+-I.
+-I.
+-I..\..\..\ecs\SYSTEM\Qt4\mkspecs\default

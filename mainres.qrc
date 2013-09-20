@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/flags" >
+        <file>en.png</file>
+        <file>he.png</file>
+        <file>it.png</file>
+        <file>fr.png</file>
+        <file>pl.png</file>
+        <file>ru.png</file>
+        <file>tr.png</file>
+    </qresource>
+    <qresource prefix="/icons" >
+        <file>archive.png</file>
+        <file>audio.png</file>
+        <file>cdfly.png</file>
+        <file>cdrom_unmount.png</file>
+        <file>configure.png</file>
+        <file>editdelete.png</file>
+        <file>exit.png</file>
+        <file>filenew.png</file>
+        <file>fileopen.png</file>
+        <file>filesave.png</file>
+        <file>filesaveas.png</file>
+        <file>find.png</file>
+        <file>folder.png</file>
+        <file>image-thumb.png</file>
+        <file>image.png</file>
+        <file>key_enter.png</file>
+        <file>locationbar_erase.png</file>
+        <file>stop.png</file>
+        <file>unknown.png</file>
+        <file>video.png</file>
+    </qresource>
+</RCC>

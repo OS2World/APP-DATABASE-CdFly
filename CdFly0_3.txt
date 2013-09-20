@@ -1,0 +1,27 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: CdFly0_3.zip
+       Short Description: CD-DVD collection manager
+        Long Description: Port of CdFly, a crossplatform CD/DVD collection manager based on SQLite3, sources included.
+
+      Proposed directory
+           for placement: /pub/os2/apps/database
+
+               Your name: Gianfilippo Cimmino
+           Email address: cnemo1@hotmail.com
+    Program contact name: 
+   Program contact email: 
+             Program URL: http://cdfly.sourceforge.net/ 
+
+      Would you like the
+   contact email address
+    included in listings? no
+
+Operating System/Version: OS/2 Warp 4 or eCS 
+ Additional requirements: Qt4 runtime, GCC runtime
+
+                Replaces: (none)
+
+
+

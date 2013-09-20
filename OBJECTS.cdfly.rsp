@@ -1,0 +1,14 @@
+cdfly.obj
+find.obj
+main.obj
+mimeicon.obj
+settings.obj
+cdsql.obj
+newdisk.obj
+progress.obj
+moc_cdfly.obj
+moc_find.obj
+moc_settings.obj
+moc_newdisk.obj
+moc_progress.obj
+qrc_mainres.obj
